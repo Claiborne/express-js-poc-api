@@ -69,6 +69,6 @@ function validateAnimal(animal) {
   return Joi.validate(animal, schema)
 }
 
-	test indentation fix
-	test 2
-	test 3
+  spaces
+	tab
+	auto
