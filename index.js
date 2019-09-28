@@ -70,5 +70,4 @@ function validateAnimal(animal) {
 }
 
   spaces
-	tab
-	auto
+  soft tab
