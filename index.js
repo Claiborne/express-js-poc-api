@@ -68,6 +68,3 @@ function validateAnimal(animal) {
   }
   return Joi.validate(animal, schema)
 }
-
-  spaces
-  soft tab
